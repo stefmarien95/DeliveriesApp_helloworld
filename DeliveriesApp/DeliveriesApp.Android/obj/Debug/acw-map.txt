@@ -1,0 +1,3 @@
+DeliveriesApp.Droid.MainActivity, DeliveriesApp.Android;crc64a2ad47f680ea0deb.MainActivity
+DeliveriesApp.Droid.MainActivity;crc64a2ad47f680ea0deb.MainActivity
+deliveriesapp.droid.MainActivity;crc64a2ad47f680ea0deb.MainActivity
